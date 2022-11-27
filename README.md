@@ -4,7 +4,7 @@
 1.  Create a 'quizzes' folder
 2.  Create a quiz file in javascript and create an array named 'quizData'. Then create an
     object with the following properties:'question','a','b','c','d','correct'.(The correct
-    value should be one of the letters) It should look something like this:
+    value should be one of the letters) It should look something like this:  
     `var quizData = [
         {
             question:"Lorem ipsum?",
